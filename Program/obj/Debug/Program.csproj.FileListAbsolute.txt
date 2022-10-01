@@ -1,0 +1,8 @@
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Program.exe.config
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Program.exe
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Program.pdb
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.exe
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.pdb

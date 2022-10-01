@@ -1,0 +1,11 @@
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Program.exe.config
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Program.exe
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Program.pdb
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\HTTP.csproj.AssemblyReference.cache
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\HTTP.csproj.SuggestedBindingRedirects.cache
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.exe
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\Program.pdb
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Newtonsoft.Json.dll
+E:\Arquivos\Projetos Visual Studio\Program\Program\bin\Debug\Newtonsoft.Json.xml
+E:\Arquivos\Projetos Visual Studio\Program\Program\obj\Debug\HTTP.csproj.CopyComplete
